@@ -74,3 +74,9 @@ p {
 .author img {
   max-width: 32px;
 }
+
+.title:hover,
+.title:focus {
+  cursor: pointer;
+  color: hsl(47, 88%, 63%);
+}
